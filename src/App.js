@@ -7,6 +7,7 @@ import Description from './components/Description'
 import Price from  './components/Price';
 
 function App() {
+  /*Declaring fistName*/
   let firstName= 'manef'
 
   return (
